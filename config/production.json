@@ -2,5 +2,5 @@
   "port": 5000,
   "jwtSecret": "vladilen youtube mern",
   "mongoUri": "mongodb+srv://dima:ThomasDayz@cluster0.7fl1s.mongodb.net/links?retryWrites=true&w=majority",
-  "baseUrl": "http://localhost:5000"
+  "baseUrl": `http://localhost:${port}`
 }
